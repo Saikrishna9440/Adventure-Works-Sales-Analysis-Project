@@ -1,3 +1,1 @@
-# Power BI Project
-
-Power BI Dashboard 
+# Adventure Works Sales Analysis
