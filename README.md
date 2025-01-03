@@ -1,3 +1,3 @@
-# Data-Analyst-Projects
+# Power BI Project
 
 Power BI Dashboard 
